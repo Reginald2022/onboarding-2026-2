@@ -54,7 +54,7 @@ um Mifare Classic devem ser tratados como comprometidos por padrão.
 ## Entrega do Bloco 2
 
 ### Teste Proxmark3
-![Proxmark3](Proxmark.png.png)
+![Proxmark3](../Proxmark.png.png)
 
 ### Teste Responder
-![Responder](responder.png.png)
+![Responder](../responder.png.png)
