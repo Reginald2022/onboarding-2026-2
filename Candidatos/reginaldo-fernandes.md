@@ -50,3 +50,11 @@ precisar quebrar criptografia alguma.
 **Conclusão para auditoria física:** o fator determinante não é a frequência em si,
 mas o **modelo de chip** e se ele implementa autenticação. Um crachá LF 125 kHz ou
 um Mifare Classic devem ser tratados como comprometidos por padrão.
+
+## Entrega do Bloco 2
+
+### Teste Proxmark3
+![Proxmark3](Proxmark.png.png)
+
+### Teste Responder
+![Responder](responder.png.png)
